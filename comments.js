@@ -1,9 +1,4 @@
 // Create a web server
-// Create a route for comments
-// Create a route for comments/new
-// Create a route for comments/:id
-// Create a route for comments/:id/edit
-// Create a route for comments/:id/delete
 const express = require('express');
 const app = express();
 const PORT = 3000;
